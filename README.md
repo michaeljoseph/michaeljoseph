@@ -28,3 +28,42 @@ TODO: embed? https://skyline.github.com/{username}/{current-year}
 <a href="https://github.com/michaeljoseph/michaeljoseph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljoseph&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
+
+<p align="center">
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/header.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/repositories.svg" />
+  </a>
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/acti-comm.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/iso-calender.svg" />
+  </a>
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/issue-pr-lang.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/analysis.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/github-habits.svg" />
+  </a>
+  <a href="https://github.com/michaeljoseph">
+    <img align="center" width="360px" src="./images/achievements.svg" />
+  </a>
+</p>
