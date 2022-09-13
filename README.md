@@ -2,6 +2,9 @@
   <a href="https://metrics.lecoq.io/insights?user=michaeljoseph">
     <img align="center" width="360px" src="./images/header.svg" />
   </a>
+  <a href="https://metrics.lecoq.io/insights?user=michaeljoseph">
+    <img align="center" width="360px" src="./images/achievements.svg" />
+  </a>
 </p>
 
 <p align="center">
@@ -28,11 +31,5 @@
   </a>
   <a href="https://metrics.lecoq.io/insights?user=michaeljoseph">
     <img align="center" width="360px" src="./images/github-habits.svg" />
-  </a>
-</p>
-
-<p>
-  <a href="https://metrics.lecoq.io/insights?user=michaeljoseph">
-    <img align="center" width="360px" src="./images/achievements.svg" />
   </a>
 </p>
