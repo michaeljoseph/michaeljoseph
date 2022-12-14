@@ -30,7 +30,7 @@
                             <rect mask="url(#issues-bar)" x="98.77551020408163" y="0" width="0" height="8" fill="#c9d1d9"/>
                             <rect mask="url(#issues-bar)" x="98.77551020408163" y="0" width="76.3265306122449" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="175.1020408163265" y="0" width="44.89795918367347" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="-4.489795918367347" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="215.51020408163262" y="0" width="4.489795918367347" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="field blue fill-width">
